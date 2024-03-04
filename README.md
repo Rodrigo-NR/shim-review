@@ -49,7 +49,7 @@ An authorized reviewer will initiate contact verification by sending each securi
 You will be asked to post the contents of these mails in your `shim-review` issue to prove ownership of the email addresses and PGP keys.
 *******************************************************************************
 - Name: Igor Cunha Teixeira
-- Position: Software Engineer
+- Position: Tech Lead
 - Email address: igort@ipt.br
 - PGP key fingerprint: A0D6 BB8D 244D FA22 512D  AD02 C44A 8E61 5304 D4B7
 
