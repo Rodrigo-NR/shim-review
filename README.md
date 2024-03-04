@@ -89,7 +89,7 @@ Yes
 *******************************************************************************
 ### URL for a repo that contains the exact code which was built to get this binary:
 *******************************************************************************
-https://github.com/Rodrigo-NR/shim-review
+https://github.com/Rodrigo-NR/shim-review/tree/lux2.0-shim-amd64_i386-20240304
 
 *******************************************************************************
 ### What patches are being applied and why:
